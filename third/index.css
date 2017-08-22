@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+.topbox{
+    width: 100%;
+    background-color: #9F9090;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+.box1{
+    width: 100%;
+    background-color: whitee;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 30px;
+}   
+.box2{
+    width: 100%;
+    background-color: #6161DF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+} 
+.box3{
+    width: 100%;
+    background-coor: #507281;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.box4{
+    width: 100%;
+    background-color: #598F59;
+    ;padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+.box5{
+    width: 100%;
+    background-color: yellow;
+    padding-top: 40px;
+    padding-bottom: 40px;;
+}
+.smallbox{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    position: relative;
+    margin-left: 10px;
+    
+}

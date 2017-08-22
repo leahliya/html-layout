@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+.leftbox{
+    background-color: #66a3ff;
+    display: inline-block;
+    height: 100vh;
+    width: 33%;
+}
+.midlbox{
+    background-color: #00ff55;
+    display: inline-block;
+    height: 100vh;
+    width: 33%;
+}
+.rightbig{
+    background-color: yellow;
+    display: inline-block;
+    height: 100vh;
+    width: 33%;
+}
+
+
+.smallbox{
+    position: absolute;
+    bottom: 0;
+    background-color: #85080A;
+    height: 30%;
+    width: 33%;
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+}

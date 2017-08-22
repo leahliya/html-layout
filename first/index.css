@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+
+.topbox{
+    width: 100%;
+    height: 10%;
+    background-color: black;
+    margin: 0;
+    
+}
+
+.midlebox{
+    width: 50%;
+    height: 80%;
+    background-color: #F4EAEA;
+    margin-left: 300px;
+}
+
+.bottombox{
+    width: 50%;
+    height: 10%;
+    background-color: black;
+    margin-left: 300px;
+}
+
